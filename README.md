@@ -23,10 +23,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Azure Virtual Configuration
+- DC-1 Outline
+- Server Manager and Active Directory Configuration
+- Test of Conexion between Virtual Machines
 
 <h2>Deployment and Configuration Steps</h2>
 
