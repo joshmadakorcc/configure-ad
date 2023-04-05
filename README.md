@@ -55,16 +55,36 @@ This Picture shows the Network Watcher
 <br />
 
 <p>
-<img src="https://i.imgur.com/B2PAaCn.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mUuHha6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  Server Manager and Active Directory Configuration
   
 <p>
-<img src="https://i.imgur.com/wbMoAEn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jvd1ej5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
+<br />
 Ping Succeeds between two virtuals Machines that are DC-1 and Client1
+<p>
+<img src="https://i.imgur.com/Xc6mecj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Ping Succeeds between two virtuals Machines that are DC-1 and Client1
+<p>
+<img src="https://i.imgur.com/R3EzICh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Ping Succeeds between two virtuals Machines that are DC-1 and Client1
+<p>
+<img src="https://i.imgur.com/pIMpd0P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/B0WavBv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+
 
 
 
