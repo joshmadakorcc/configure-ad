@@ -31,7 +31,7 @@ This tutorial outlines the implementation as well as the use of on-premises Acti
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/9YEtJzR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/72NPpfd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Azure Virtual Machines Configuraton.
@@ -39,7 +39,7 @@ Azure Virtual Machines Configuraton.
 <br />
 
 <p>
-<img src="https://i.imgur.com/rxVECED.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hJTTKNZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Domain Control DC-1 Virtual Machine outline.
@@ -47,7 +47,7 @@ Domain Control DC-1 Virtual Machine outline.
 <br />
 
 <p>
-<img src="https://i.imgur.com/SrG4TvI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9yjith3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This Picture shows the Network Watcher
