@@ -34,6 +34,8 @@ Azure Virtual Machines Configuraton.
 </p>
 <p>
 Domain Control DC-1 Virtual Machine outline.
+</p>
+<br />
 
 <img src="https://i.imgur.com/8UzPyQU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
