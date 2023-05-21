@@ -18,7 +18,7 @@ This tutorial outlines the implementation as well as the use of on-premises Acti
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1: Azure Virtual Configuration
+- Step 1: Azure Virtual machines Configuration
 - Step 2: DC-1 Outline
 - Step 3: Server Manager and Active Directory Configuration
 - Step 4: Test of Conexion between Virtual Machines
