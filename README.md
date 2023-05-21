@@ -41,7 +41,7 @@ Domain Control DC-1 Virtual Machine outline.
 </p>
 <p>
 <p>
- Virtual Machine Client1.
+ Virtual Machine2.
  </p>
 <br /> 
 <img src="https://i.imgur.com/jvd1ej5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -58,6 +58,18 @@ This Picture shows the Network Watcher
 <img src="https://i.imgur.com/mUuHha6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+ 
+</p>
+<br />
+Active Directory outline
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/pCFyE5g.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+ 
 Ping Succeeds between two virtuals Machines that are DC-1 and Client1
 <p>
 <img src="https://i.imgur.com/Xc6mecj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
