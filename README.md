@@ -40,8 +40,12 @@ Domain Control DC-1 Virtual Machine outline.
 <img src="https://i.imgur.com/jvd1ej5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-
+Virtual Machine Client1
 <p>
+<img src="https://i.imgur.com/8UzPyQU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <br />
 <img src="https://i.imgur.com/8UzPyQU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
