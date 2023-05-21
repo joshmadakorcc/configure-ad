@@ -1,14 +1,8 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img src="https://i.imgur.com/Ua7udoS.png" alt="Microsoft Active Directory Logo"/>
 </p>
-
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
-
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
+This tutorial outlines the implementation as well as the use of on-premises Active Directory within Azure Virtual Machines.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -24,33 +18,79 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1: Azure Virtual machines Configuration
+- Step 2: DC-1 Outline
+- Step 3: Server Manager and Active Directory Configuration
+- Step 4: Test of Conexion between Virtual Machines
 
 <h2>Deployment and Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Azure Virtual Machines Configuraton.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kTL0zje.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Domain Control DC-1 Virtual Machine outline.
+</p>
+<br />
+
+<img src="https://i.imgur.com/8UzPyQU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+ Virtual Machine2.
+ </p>
+<br /> 
+<img src="https://i.imgur.com/jvd1ej5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+This Picture shows the Network Watcher
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mUuHha6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ 
 </p>
 <br />
+Active Directory outline
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/pCFyE5g.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+ 
+Ping Succeeds between two virtuals Machines that are DC-1 and Client1
+<p>
+<img src="https://i.imgur.com/Xc6mecj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Ping Succeeds between two virtuals Machines that are DC-1 and Client1
+<p>
+<img src="https://i.imgur.com/R3EzICh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Ping Succeeds between two virtuals Machines that are DC-1 and Client1
+<p>
+<img src="https://i.imgur.com/pIMpd0P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/B0WavBv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+
+
+
+
