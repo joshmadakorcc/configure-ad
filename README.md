@@ -42,7 +42,7 @@ Domain Control DC-1 Virtual Machine outline.
 <br />
 
 <p>
-<img src="https://i.imgur.com/9yjith3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8UzPyQU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This Picture shows the Network Watcher
